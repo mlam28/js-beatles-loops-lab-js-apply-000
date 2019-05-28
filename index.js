@@ -31,4 +31,5 @@ function iLoveTheBeatles(num) {
     newArray.push("I love the Beatles!"); num++
   }
   while (num < 15)
+  return newArray
 }
